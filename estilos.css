@@ -1,0 +1,56 @@
+body{
+    background-color: #D8B08C;
+}
+.ppg{
+    
+    padding: 150px;
+}
+
+.ppg form {
+    height: 100%;
+    width: 70%;
+    background-color: #0F6466;
+    text-align: center;
+    border: 3px solid black;
+    padding: 20px;
+
+
+}
+.ppg input[type=textfield] {
+    height: 50%;
+    width: 90%;
+    padding: 50px;
+    border: 3px solid black;
+    
+}
+.ppg input[type=button] {
+    padding: 40px;
+    margin: 30px;
+    border-radius: 25px;
+    border: 3px solid black;
+    font-size: 40px;
+    background-color: black;
+    color: white;
+}
+.ppg input[type=reset] {
+    background-color: black;
+    color: white;
+    padding: 40px;
+    margin: 30px;
+    border-radius: 25px;
+    border: 3px solid black;
+    font-size: 40px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
